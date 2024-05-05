@@ -1,0 +1,33 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .hoan-thanh {
+    background-color: #C8E6C9; 
+  }
+  
+  .chua-hoan-thanh {
+    background-color: #FFCDD2; 
+  }
+  
+  .btn {
+    padding: 5px 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .btn-sua {
+    background-color: #FF9800; 
+  }
+  
+  .btn-xoa {
+    background-color: #F44336;  
+  }
